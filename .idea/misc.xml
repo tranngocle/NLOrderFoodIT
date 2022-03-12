@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/bar_style.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/button_style.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/card_background.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/cart_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/cart_style.xml" value="0.3142857142857143" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/category_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/check_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/credit_card.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/delete_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/delivery.xml" value="0.2890625" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/fav.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/favorite.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/home_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/ic_baseline_loginout.xml" value="0.156" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.165" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/icon_back.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/icon_edit.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/icon_phone.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/input_styleb.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/login.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/mail_icon.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/minus.xml" value="0.2890625" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/mpesa_icon.xml" value="0.2890625" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/plus.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/restaurant_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/search_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/search_style.xml" value="0.3142857142857143" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/settings_icon.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/user.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/drawable/user_icon.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font-family/bangers.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font/bangers.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font/berkshire_swash.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font/frijole.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font/henny_penny.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font/jokey_one.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font/rotobo.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/font/rotobo_bold.xml" value="0.1" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_add_restaurant.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_admin_add_food_item_view.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_admin_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_cart_view.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_category_foods_template.xml" value="0.33" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_check_out.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_food_detail.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_payment_confirmation.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_restaurant_view.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_splash_screen.xml" value="0.21" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/activity_view_orders.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/admin_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/cart_item_template.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/category_template.xml" value="0.22" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/food_template.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/newdish_tempate.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/order_template.xml" value="0.22" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/layout/restaurant_tamplate.xml" value="0.25" />
+        <entry key="..\:/Users/tranb/AndroidStudioProjects/NLOrderFood/app/src/main/res/menu/admin_menu_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
